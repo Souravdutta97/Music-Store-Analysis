@@ -10,7 +10,7 @@ I will take you through the processes I took in answering the business questions
 </p>
 understand the database of the music store, and below is the schema diagram showing all tables and their relationships to each other.
 <p align="center">
-  <img width="600" height="300" src="">
+  <img width="600" height="300" src="schema_diagram.png">
 </p>
 
 
