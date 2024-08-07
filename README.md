@@ -6,5 +6,5 @@ I was given the database which I loaded into DB SQL SERVER to conduct the Analys
 
 I will take you through the processes I took in answering the business questions and the insights generated.
 <p align="center">
-  <img width="600" height="300" src=" ">
+  <img width="600" height="300" src="music-store-analysis.webp">
 </p>
