@@ -12,6 +12,10 @@ understand the database of the music store, and below is the schema diagram show
 <p align="center">
   <img width="600" height="300" src="schema_diagram.png">
 </p>
+You can also connect with me on (www.linkedin.com/in/sourav-dutta-4a01642a9). You can also visit my (https://github.com/Souravdutta97) repo to see my other projects.
+##Author
+Sourav Dutta
+Data Analyst
 
 
 
