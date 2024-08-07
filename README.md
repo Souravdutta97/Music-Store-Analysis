@@ -5,3 +5,6 @@ This is project I came to know from one of the linkdIn comment so I decided to s
 I was given the database which I loaded into DB SQL SERVER to conduct the Analysis.
 
 I will take you through the processes I took in answering the business questions and the insights generated.
+<p align="center">
+  <img width="600" height="300" src=" ">
+</p>
